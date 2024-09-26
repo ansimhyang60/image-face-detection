@@ -16,10 +16,10 @@
 
 
 ### 환경설정
-$ conda create –n venv
-$ conda activate venv
+## $ conda create –n venv
+## $ conda activate venv
 
-(venv)$ conda install pylint
-(venv)$ conda install requests
-(venv)$ pip install python-dotenv
-(venv)$ pip install google-api-python-client
+## (venv)$ conda install pylint
+## (venv)$ conda install requests
+## (venv)$ pip install python-dotenv
+## (venv)$ pip install google-api-python-client
